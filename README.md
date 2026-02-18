@@ -1,4 +1,4 @@
-# 📊 Adventure Works Sales Dashboard
+# 📊 Adventure Works Sales Dashboard over 3 years 
 
 > A comprehensive Power BI dashboard analyzing Adventure Works sales, profit, and customer metrics across regions and time periods.
 
