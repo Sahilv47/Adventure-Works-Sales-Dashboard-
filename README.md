@@ -1,29 +1,78 @@
-top highlights
+# 📊 Adventure Works Sales Dashboard
 
-total sales: 24.91M
-total profit: 10.46M
-total orders: 25k
-AOV: 296
-Quantity sold: 84k
-Total Customers: 17k
+> A comprehensive Power BI dashboard analyzing Adventure Works sales, profit, and customer metrics across regions and time periods.
 
-monthly trend analysis
+---
 
-1.these are top 2 month which have the highest values.
-2.In may and june, the total sales of both is 3.0M and the total cost is 9.2T and 9.4T.
+## 🎯 Top Highlights
 
-sales contribution and profit margin
+| Metric | Value |
+|--------|-------|
+| 💰 Total Sales | **$24.91M** |
+| 📈 Total Profit | **$10.46M** |
+| 🛍️ Total Orders | **25K** |
+| 🔄 Average Order Value (AOV) | **$296** |
+| 📦 Quantity Sold | **84K** |
+| 👥 Total Customers | **17K** |
 
-1.North america contributed maximum sales of 9.71M (38.97%) and profit margin of 42.5%.
-2.and the 2nd highest sales in europe which is 7.79M (31.27%) and profit margin is 41.8%.
-3.added button slicer to check continent, country and region wise sales contribution and profit margin.
+---
 
-Yearly and Quarterly sales contribution 
+## 📅 Monthly Trend Analysis
 
-1.2024 and 2025 has almost similar contribution which is 9.3M and 9.2M.
-2.over 3 year of data, qtr 2 lead through 8.7M and the 2nd highest in qtr 1 is 7.2M.
+🔝 **Peak Months:** May & June
+- 💵 May: $3.0M Sales
+- 💵 June: $3.0M Sales
+- 📊 Cost Range: $9.2T - $9.4T
 
+These months show the strongest performance across the dataset.
 
+---
 
+## 🌍 Sales Contribution & Profit Margin
 
+### 🥇 North America (Leader)
+- 💼 Sales: **$9.71M** (38.97%)
+- 📊 Profit Margin: **42.5%**
 
+### 🥈 Europe (Runner-up)
+- 💼 Sales: **$7.79M** (31.27%)
+- 📊 Profit Margin: **41.8%**
+
+**🎛️ Interactive Feature:** Button slicer to explore sales contribution and profit margins by:
+- 🌐 Continent
+- 🏙️ Country
+- 📍 Region
+
+---
+
+## 📊 Yearly & Quarterly Sales Contribution
+
+### 📈 Year-over-Year (2024-2025)
+- 2024: **$9.3M**
+- 2025: **$9.2M**
+- ℹ️ Nearly equal contribution across both years
+
+### 🎯 Quarterly Performance
+| Quarter | Sales |
+|---------|-------|
+| 🥇 Q2 | **$8.7M** (Highest) |
+| 🥈 Q1 | **$7.2M** (2nd Highest) |
+
+> *3-year data analysis reveals Q2 as the strongest performing quarter*
+
+---
+
+## 📌 Key Features
+
+✨ Multi-level filtering (Continent, Country, Region)  
+📊 Trend analysis for monthly patterns  
+💡 Profitability insights across regions  
+🔄 Year-over-year and quarterly comparisons
+
+---
+
+<div align="center">
+
+**⭐ Powered by Power BI** | **📊 Adventure Works Dataset**
+
+</div>
