@@ -1,4 +1,4 @@
-# 📊 Adventure Works Sales Dashboard over 3 years 
+# 📊 Adventure Works Sales Dashboard over 3 years
 
 > A comprehensive Power BI dashboard analyzing Adventure Works sales, profit, and customer metrics across regions and time periods.
 
@@ -53,12 +53,14 @@ These months show the strongest performance across the dataset.
 - ℹ️ Nearly equal contribution across both years
 
 ### 🎯 Quarterly Performance
-| Quarter | Sales |
-|---------|-------|
-| 🥇 Q2 | **$8.7M** (Highest) |
-| 🥈 Q1 | **$7.2M** (2nd Highest) |
+| Quarter | Sales | Rank |
+|---------|-------|------|
+| 🥇 Q2 | **$8.7M** | Highest |
+| 🥈 Q1 | **$7.2M** | 2nd Highest |
+| 🥉 Q4 | **$5.1M** | 3rd |
+| ❌ Q3 | **$3.9M** | Lowest |
 
-> *3-year data analysis reveals Q2 as the strongest performing quarter*
+> *3-years data analysis reveals Q2 as the strongest performing quarter, while Q3 shows the lowest performance*
 
 ---
 
