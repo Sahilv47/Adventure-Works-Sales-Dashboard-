@@ -22,7 +22,6 @@
 🔝 **Peak Months:** May & June
 - 💵 May: $3.0M Sales
 - 💵 June: $3.0M Sales
-- 📊 Cost Range: $9.2T - $9.4T
 
 These months show the strongest performance across the dataset.
 
